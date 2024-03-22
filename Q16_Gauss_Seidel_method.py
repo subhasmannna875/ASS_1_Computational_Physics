@@ -33,3 +33,12 @@ for k in range(num_iterations):
         break
 print("solution:",x)
 print("number of iteration:",k+1)
+
+
+'''
+
+OUT PUT 
+
+solution: [ 7.79173672  0.42195986 -0.07247764 -0.53199167  0.01057853]
+number of iteration: 12
+'''
