@@ -58,3 +58,29 @@ print("x2 =", solution4[1])
 print("x3 =", solution4[2])
 print("x4 =", solution4[3])
 print("x5 =", solution4[4])
+
+
+
+'''
+out put:
+
+Print the  first system of equation solution
+x1 = 0.03508771929824563
+x2 = -0.2368421052631579
+x3 = 0.6578947368421052
+the second system of equation solution
+x1 = 0.9957894736842106
+x2 = 0.9578947368421054
+x3 = 0.7915789473684212
+the third system of equation solution 
+x1 = -0.7976470588235294
+x2 = 2.795294117647059
+x3 = -0.25882352941176484
+x4 = -2.251764705882353
+the fourth system of equation solution
+x1 = 0.7866323907455015
+x2 = -1.0025706940874037
+x3 = 1.8663239074550126
+x4 = 1.9125964010282777
+x5 = 1.9897172236503853
+'''
