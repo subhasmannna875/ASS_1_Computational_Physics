@@ -36,4 +36,11 @@ for k in range(num_iterations):
 print("solution:",x)
 print("number of iteration:",k+1)
 
+'''
+out put
+
+solution: [ 7.78189882  0.42099463 -0.07256449 -0.53257501  0.0105493 ]
+number of iteration: 4
+
+'''
 
