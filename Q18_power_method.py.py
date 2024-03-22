@@ -27,3 +27,15 @@ for i in range(max_iter):
 print("maximum eigen value:",float(lam)) 
 print("eigen vector corespond to maximum eigen value:",x) 
 print("number of iteration:",i+1)
+
+
+'''
+out put 
+
+maximum eigen value: 3.411764705882353
+eigen vector corespond to maximum eigen value: [[ 0.50007433]
+ [-0.70700164]
+ [ 0.50007433]]
+number of iteration: 6
+
+'''
