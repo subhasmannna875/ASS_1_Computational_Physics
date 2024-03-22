@@ -19,3 +19,13 @@ for i in range(2):
         print('eigen value are equal')
     else:
         print("eigen value are different")
+
+'''
+out put 
+
+Eigenvalues using QR decomposition: [6.79310345 6.20689655]
+Eigenvalues using numpy.linalg.eigh: [4. 9.]
+eigen value are different
+eigen value are different
+
+'''
