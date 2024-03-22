@@ -29,3 +29,11 @@ for i in range(max_iterations):
     x = x_new
 print("Solution:", x)
 print("number of iteration:",i+1)
+
+'''
+out put 
+
+Solution: [ 7.3599123   0.40518225 -0.07236773 -0.53495951  0.01017659]
+number of iteration: 19
+
+'''
