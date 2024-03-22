@@ -35,3 +35,13 @@ solution = conjugate_gradient(A, b, x0)
 
 print("Solution:", solution[0])
 print("number of iteration:",solution[1])
+
+
+
+'''
+out put 
+
+Solution: [ 7.85971308  0.42292641 -0.07359224 -0.54064302  0.01062616]
+number of iteration: 5
+
+'''
