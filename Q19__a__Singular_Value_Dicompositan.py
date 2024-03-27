@@ -24,5 +24,32 @@ print(np.diag(S))
 print("\nV^T:")
 print(VT)
 print("\nReconstructed Matrix:")
-print(reconstructed_A,decimal=4)
+print(reconstructed_A)
 print("\nTime taken for computation: {} seconds".format(end_time - start_time))
+
+
+
+'''
+Matrix A:
+[[2 1]
+ [1 0]]
+
+Singular Value Decomposition (SVD):
+U:
+[[-0.92387953 -0.38268343]
+ [-0.38268343  0.92387953]]
+
+Singular Values (S):
+[[2.41421356 0.        ]
+ [0.         0.41421356]]
+
+V^T:
+[[-0.92387953 -0.38268343]
+ [ 0.38268343 -0.92387953]]
+
+Reconstructed Matrix:
+[[ 2.00000000e+00  1.00000000e+00]
+ [ 1.00000000e+00 -5.55111512e-17]]
+
+Time taken for computation: 0.0010044574737548828 seconds
+'''
